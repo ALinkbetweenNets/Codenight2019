@@ -1,0 +1,22 @@
+first = ord("A") #
+
+def encrypt(plainText, key):
+    plainText = plainText.upper()
+    key = key%26
+    encrypted = ""
+    for c in list(plainText):
+        encrypted += chr((((ord(c)-first) + key)%26)+first) #ASCII-vlaue of each character of plainText + key
+        key = (key+1)%26 #increase value of key by 1
+    return encrypted
+
+def decrypt(cipherText, key):
+    cipherText = cipherText.upper()
+    key = key%26
+    decrypted = ""
+    for c in list(cipherText):
+        decrypted += chr((((ord(c)-first) - key)%26)+first) #ASCII-vlaue of each character of cipherText - key
+        key = (key+1)%26 #increase value of key by 1
+    return decrypted
+
+for i in range(0,25):
+    print(decrypt("UIVGONOXJKESILISRQ",i)) #try all possible keys
