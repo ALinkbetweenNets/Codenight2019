@@ -1,0 +1,9 @@
+Edit .png with notepad++
+
+Search for DELETE ABOVE
+
+Delete this line and everything above it
+
+rename the file to a .exe
+
+run it
