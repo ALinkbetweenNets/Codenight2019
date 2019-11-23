@@ -1,0 +1,6 @@
+C:\Users\carlb\source\repos\CodeNight\ReverseEngineering\bin\Release\ReverseEngineering.exe.config
+C:\Users\carlb\source\repos\CodeNight\ReverseEngineering\bin\Release\ReverseEngineering.exe
+C:\Users\carlb\source\repos\CodeNight\ReverseEngineering\bin\Release\ReverseEngineering.pdb
+C:\Users\carlb\source\repos\CodeNight\ReverseEngineering\obj\Release\ReverseEngineering.csprojAssemblyReference.cache
+C:\Users\carlb\source\repos\CodeNight\ReverseEngineering\obj\Release\ReverseEngineering.exe
+C:\Users\carlb\source\repos\CodeNight\ReverseEngineering\obj\Release\ReverseEngineering.pdb

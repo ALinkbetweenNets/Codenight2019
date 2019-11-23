@@ -1,0 +1,6 @@
+C:\Users\carlb\source\repos\BufferOverflow\BufferOverflow\bin\Release\BufferOverflow.exe.config
+C:\Users\carlb\source\repos\BufferOverflow\BufferOverflow\bin\Release\BufferOverflow.exe
+C:\Users\carlb\source\repos\BufferOverflow\BufferOverflow\bin\Release\BufferOverflow.pdb
+C:\Users\carlb\source\repos\BufferOverflow\BufferOverflow\obj\Release\BufferOverflow.csprojAssemblyReference.cache
+C:\Users\carlb\source\repos\BufferOverflow\BufferOverflow\obj\Release\BufferOverflow.exe
+C:\Users\carlb\source\repos\BufferOverflow\BufferOverflow\obj\Release\BufferOverflow.pdb
