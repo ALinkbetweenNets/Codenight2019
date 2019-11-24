@@ -19,4 +19,4 @@ def decrypt(cipherText, key):
     return decrypted
 
 for i in range(0,25):
-    print(decrypt("UIVGONOXJKESILISRQ",i)) #try all possible keys
+    print(decrypt("XGAVIYAKGFHU",i)) #try all possible keys
