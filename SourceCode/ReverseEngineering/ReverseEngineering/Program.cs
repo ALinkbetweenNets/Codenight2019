@@ -14,10 +14,12 @@ namespace ReverseEngineering
            char[] keyArray = key.ToCharArray();
            Int64 hash = 1;
            foreach(char c in keyArray) {
-               hash *= (int)c + keyArray.Count();
+               hash *= (int)c;
            }
            hash = (hash%900) + 100;
-           Console.WriteLine(hash.ToString());
+           if(hash==520){
+               Console.WriteLine("Key could be correct");
+           }
         }
     }
 }
