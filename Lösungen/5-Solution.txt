@@ -1,0 +1,7 @@
+https://cheatengine.org/
+https://cheatengine.org/tutorials.php
+Dump entire Ram of Ramsearch.exe with Cheatengine
+run Cheatengine's StringMap on that
+Search for possible password
+Search from bottom to top (yes, around 94 million entries are many)
+The password will be next to the base64 encoded versions
